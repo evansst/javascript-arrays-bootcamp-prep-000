@@ -31,5 +31,4 @@ var chocolateBars = [
   function destructivelyRemoveElementFromBeginningOfArray() {
   
   }
-  }
   
