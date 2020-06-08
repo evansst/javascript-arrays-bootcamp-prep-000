@@ -38,5 +38,3 @@ var chocolateBars = [
     return array;
   }
   
-  }
-  
