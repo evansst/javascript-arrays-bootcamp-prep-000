@@ -37,4 +37,4 @@ var chocolateBars = [
    return a.slice(1);
   }
 
-  
+  function 
